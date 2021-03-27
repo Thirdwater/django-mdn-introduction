@@ -1,0 +1,13 @@
+# Environments
+env
+
+# Python
+__pycache__
+*.pyc
+*.egg-info
+
+# Misc.
+*.sw[op]
+
+# Django
+*.sqlite3
