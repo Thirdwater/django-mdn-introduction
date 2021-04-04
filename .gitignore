@@ -1,5 +1,7 @@
 # Environments
 env
+**/.env
+**/.vscode
 
 # Python
 __pycache__
